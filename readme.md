@@ -1,5 +1,10 @@
 # app com react-navigation
 
-## Instalação: `npm install`
+### Instalação:
 
-## Execução: `react-native start --reset-cache` abra outro terminal e execute o comando `react-native run-android`
+`npm install`
+
+### Execução:
+
+`react-native start --reset-cache`  
+abra outro terminal e execute o comando `react-native run-android`
